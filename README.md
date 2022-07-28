@@ -1,4 +1,4 @@
-# Simulation of a plausible post-PIP-22 network landscape and the effects of the PUP-21 values on the node rewards.
+![banner](banner.png)
 
 This repository contains the code of the POKTscan report on the PIP-22 proposal and the PUP-21 values. It is being released for the comunity in order to enable the exploration of the different PIP-22 scenearios.
 
